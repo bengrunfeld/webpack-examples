@@ -15,4 +15,9 @@ To run this example,
 
 ## Check the result
 
-Once you've successfully run the `webpack` commande, navigate to `index.html` in your browser. It should say "Welcome to Webpack", "Hello World". If you don't see the "Hello World", then your build failed. Check the console for errors.
+Once you've run the `webpack` command with no errors:
+
+* `main.bundle.js` should have been created in the project directory
+* Navigate to `index.html` in your browser, and you should see
+Once you've successfully run the `webpack` command, navigate to `index.html` in your browser, and you should see the text, "Welcome to Webpack", "Hello World" there.
+* If you can't see "Hello World" on the page, open the console and look for errors, because the build somehow failed

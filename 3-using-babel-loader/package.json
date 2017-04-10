@@ -1,7 +1,7 @@
 {
-  "name": "1-basic-cli-usage",
+  "name": "3-using-babel-loader",
   "version": "1.0.0",
-  "description": "Basic Webpack CLI usage",
+  "description": "Using Babel Loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
